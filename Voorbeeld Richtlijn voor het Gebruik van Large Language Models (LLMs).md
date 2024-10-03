@@ -1,7 +1,5 @@
 # Voorbeeld Richtlijn voor het Gebruik van Large Language Models (LLMs)
 
-_(Richtlijn in makkelijke taal staat onderaan/ B1 getoetst door AI)_
-
 # Inleiding
 
 De opkomst van AI gestuurde systemen zoals ChatGPT en Copilot biedt nieuwe mogelijkheden om werkprocessen te verbeteren. Deze technologieën kunnen taken ondersteunen variërend van administratieve werkzaamheden tot communicatie met patiënten. Tegelijkertijd brengen ze ethische en technische uitdagingen met zich mee, vooral op het gebied van privacy en gegevensbescherming. Het is daarom essentieel dat LLMs op een verantwoorde en zorgvuldige manier worden ingezet, met respect voor privacy, veiligheid en professionele standaarden. Deze richtlijn stelt kaders vast voor het gebruik van chatbots en LLMs binnen zowel zorg als niet-zorgprocessen, in overeenstemming met wet en regelgeving en ethische normen.
@@ -76,65 +74,3 @@ Voor optimale resultaten bij het gebruik van LLMs:
 # Contact en Innovatie
 
 Voor vragen over LLM’s of ideeën om nieuwe toepassingen te verkennen, neem contact op met [AI coördinator], [email AI coördinator]/ [telefoonnummer AI coördinator]. Deze afdeling kan je verder helpen bij de ontwikkeling en implementatie van AI-projecten.
-
-
----
-  # RICHTLIJN IN MAKKELIJKE TAAL
-
-
-# Afspraken over het Gebruik van Slimme Computers
-
-Slimme computers zoals ChatGPT en Copilot maken het werk makkelijker. Ze kunnen helpen met taken zoals vragen beantwoorden en teksten schrijven. Maar er zijn ook zorgen over privacy en veiligheid. Daarom moeten we deze computers voorzichtig en volgens de regels gebruiken.
-
-# Gebruik binnen [naam organisatie]
-
-Als je een project met een slimme computer wilt starten, zorg dan dat het past bij de doelen van de organisatie. Overleg altijd met je manager als je wilt starten met gebruiken van slimme computers. Zo voorkom je misverstanden en werk je veilig.
-
-# Waar te gebruiken?
-
-Gebruik slimme computers voor niet-kritische taken, zoals administratief werk of klantenservice. Gebruik ze niet voor medische beslissingen als ze niet goed getest en goedgekeurd zijn. Voor minder belangrijke taken, zoals het schrijven van een nieuwsbrief, kun je ze wel gebruiken. Lees altijd het antwoord van de slimme computer. Ze kunnen ook fouten maken.
-
-# Bescherming van gegevens
-
-Het is belangrijk om gegevens te beschermen bij het gebruik van slimme computers. Voer geen persoonlijke informatie in, zoals namen of medische gegevens, tenzij ze helemaal anoniem zijn. Dat betekent dat niemand kan zien over wie het gaat. Deel ook geen andere vertrouwelijke informatie met slimme computers.
-
-# Veiligheid en beveiliging
-
-Gebruik alleen slimme computers die door [naam organisatie] zijn goedgekeurd. Openbare of onbeveiligde computers zijn niet veilig voor vertrouwelijke informatie. Alle systemen moeten voldoen aan de veiligheidsregels van [naam organisatie].
-
-# Verantwoordelijkheid
-
-Hoewel slimme computers helpen, blijft de mens verantwoordelijk. Een slimme computer is een hulpmiddel, maar je moet altijd zelf beslissen en de resultaten controleren. Bijvoorbeeld: een arts kan een slimme computer gebruiken om iets uit te leggen, maar moet altijd controleren of het klopt voordat zij het aan een patiënt vertelt.
-
-# Wetgeving en naleving
-
-Alles wat je met slimme computers doet, moet volgens de wet zijn. Ze moeten werken volgens regels zoals de privacywet. Als je twijfelt, neem dan contact op met [AI coördinator], [email AI coördinator] / [telefoonnummer AI coördinator].
-
-# Training en bewustzijn
-
-Het is belangrijk dat je leert hoe je slimme computers veilig en goed kan gebruiken. Daarvoor hebben wij als [naam organisatie] een cursus die je gratis kan volgen.
-
-# Controle en evaluatie
-
-Het gebruik van slimme computers moet regelmatig worden gecontroleerd en beoordeeld. Zo kun je zien of alles volgens de regels gaat en of de computers goed werken. Op deze manier kunnen we als [naam organisatie] slimme computers veilig en nuttig inzetten.
-
-Vragen of Ideeën  
-Als je vragen of ideeën hebt hoe slimme computers jou werk makkelijker kunnen maken praat er over met je leidinggevende of met [AI coördinator], [email AI coördinator] / [telefoonnummer AI coördinator].
-
-# Moeilijke woorden
-
-**AI (Kunstmatige Intelligentie)**: Slimme computers die dingen kunnen doen zoals mensen, bijvoorbeeld vragen beantwoorden.  
-**ChatGPT en Copilot**: Voorbeelden van slimme computers die teksten schrijven en begrijpen.  
-**LLM (Large Language Model)**: Een slimme computer die veel tekst kan begrijpen en maken.  
-**Niet-kritische processen**: Taken die niet heel belangrijk zijn, zoals administratie.  
-**Ethische uitdagingen**: Vragen over wat goed of fout is bij het gebruik van technologie.  
-**Gegevensbescherming**: Het veilig bewaren van persoonlijke informatie, zodat anderen het niet kunnen zien of gebruiken.  
-**Persoonsgegevens**: Informatie over een persoon, zoals naam, adres of gezondheidsgegevens.  
-**Anonimiseren**: Persoonsgegevens zo veranderen dat niemand kan zien van wie ze zijn.  
-**Bedrijfsgevoelige informatie**: Geheime informatie over een bedrijf die niet mag worden gedeeld.  
-**Beveiliging**: Het beschermen van gegevens zodat niemand er zonder toestemming bij kan.  
-**Professionele verantwoordelijkheid**: De plicht om werk goed te doen.  
-**Wet en regelgeving**: Regels en wetten waar iedereen zich aan moet houden, zoals de privacywet.  
-**Compliance**: Het volgen van regels en wetten in je werk.  
-**Monitoring**: Het controleren of iets goed gaat.  
-**Evaluatie**: Kijken of iets goed werkt of beter kan.
