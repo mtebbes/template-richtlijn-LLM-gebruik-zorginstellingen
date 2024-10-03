@@ -30,7 +30,7 @@ Er kunnen geen rechten worden ontleend aan deze voorbeeldsjabloon. Deze sjabloon
 
 # Voorbeeld Richtlijn voor het Gebruik van Large Language Models (LLMs)
 
-_(Afspraken in makkelijke taal staan onderaan)_
+_(Richtlijn in makkelijke taal staat onderaan/ B1 getoetst door AI)_
 
 # Inleiding
 
@@ -108,7 +108,9 @@ Voor optimale resultaten bij het gebruik van LLMs:
 Voor vragen over LLM’s of ideeën om nieuwe toepassingen te verkennen, neem contact op met [AI coördinator], [email AI coördinator]/ [telefoonnummer AI coördinator]. Deze afdeling kan je verder helpen bij de ontwikkeling en implementatie van AI-projecten.
 
 
-  # MAKKELIJKE TAAL DEEL
+---
+  # RICHTLIJN IN MAKKELIJKE TAAL
+
 
 # Afspraken over het Gebruik van Slimme Computers
 
